@@ -4,6 +4,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 <!-- START SECTION: GCC Courses -->
 ## GCC Courses
 * https://www.youtube.com/user/GameCreationClub/
+* https://youtube.com/@gamecreationclubgcc5098
 * https://github.com/Skydrag42/GCC_Unity_Forma_Class1/
 
 <!-- END SECTION: GCC Courses -->
@@ -39,7 +40,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 #### Tools
 * https://www.desmos.com/calculator/
 
-### Computer sciences
+### Computer Science
 
 #### Project Builders
 * https://github.com/ubisoft/Sharpmake
@@ -49,7 +50,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 * CppCon 2014 "How Ubisoft Develops Games for Multicore - Before and After C++11" - https://www.youtube.com/watch?v=X1T3IQ4N-3g
 * https://github.com/electronicarts/EAStdC
 
-#### Source control
+#### Source Control
 * https://gitlab.com/clovis-ai/dotfiles/-/blob/master/git-aliases.md
 * GCC Git - https://youtu.be/cYSHlXObipQ
 * GCC Git - https://docs.google.com/presentation/d/1s0Abq0wl0TDzuMMFzVInQ-PKmydVDuGVKYAhws7zOnw/edit?usp=sharing
@@ -85,7 +86,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 
 ## Gameplay Programming
 
-### IA
+### AI
 * https://www.totalwar.com/blog/total-war-ai/
 * https://www.gameaipro.com/
 
@@ -140,7 +141,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 * Simulating fluids and smoke in real-time - https://news.ycombinator.com/item?id=38698907
 * https://unity-grenoble.github.io/website/demo/2020/10/16/demo-histogram-preserving-blend-synthesis.html 
 
-### Graphics APIs and low-level graphics programming
+### Graphics APIs and low-level Graphics Programming
 * https://gpuopen.com/archived/directx-12-tools/
 * https://www.khronos.org/blog/vulkan-ray-tracing-best-practices-for-hybrid-rendering
 * https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator
@@ -165,15 +166,14 @@ Resources gathered by people from the GCC organization that might be useful for 
 
 ## Tools
 
-### CPU, GPU & GPU APIs profiling + debug tools
+### CPU, GPU & GPU APIs Profiling + Debug Tools
 * https://gpuopen.com/archived/directx-12-tools/ 
 * https://renderdoc.org/
 * https://devblogs.microsoft.com/pix/download/
-* https://bitbucket.org/wolfpld/tracy/src/master/
+* https://github.com/wolfpld/tracy
 * https://software.intel.com/content/www/us/en/develop/tools/vtune-profiler.html
 * https://software.intel.com/content/www/us/en/develop/tools/graphics-performance-analyzers.html
 * https://github.com/google/sanitizers/wiki/AddressSanitizer
-* https://github.com/wolfpld/tracy
 * https://github.com/dfeneyrou/palanteer
 * https://github.com/nyorain/vil
 * https://perf.wiki.kernel.org/index.php/Main_Page
