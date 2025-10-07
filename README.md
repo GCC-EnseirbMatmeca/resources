@@ -98,6 +98,9 @@ Resources gathered by people from the GCC organization that might be useful for 
 
 ### Core
 
+### Nice tricks
+* Bit operations - https://graphics.stanford.edu/~seander/bithacks.html
+
 #### Data Structures
 * Hash Tables - https://en.wikipedia.org/wiki/Hash_table
 * QuadTrees - https://www.youtube.com/watch?v=jxbDYxm-pXg
@@ -204,6 +207,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 * Procedurally Crafting Manhattan for Marvel's Spider-Man - https://www.youtube.com/watch?v=4aw9uyj9MAE
 * Marvel's Spider-Man: A Technical Postmortem - https://www.youtube.com/watch?v=KDhKyIZd3O8
 * Anatomy of a Game - https://forum.paradoxplaza.com/forum/threads/anatomy-of-a-game-changing-the-gamestate.1483669/
+* Raytracing in Assassin's Creed Shadows - https://www.youtube.com/watch?v=2K-rwy4aMmU
 
 <!-- END SECTION: Miscellaneous -->
 
