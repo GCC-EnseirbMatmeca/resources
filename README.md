@@ -78,7 +78,8 @@ Resources gathered by people from the GCC organization that might be useful for 
 * https://catlikecoding.com/unity/tutorials/noise/
 * https://cochoy-jeremy.developpez.com/tutoriels/2d/introduction-bruit-perlin/
 * Different noises - https://hal.inria.fr/hal-00920177/document
-* https://www.researchgate.net/publication/216813608_Simplex_noise_demystified 
+* https://www.researchgate.net/publication/216813608_Simplex_noise_demystified
+* Terrain Generation using FFTs - https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2022/jjw254_lmm343_ag988/ece5760-gh-pages/index.html
 
 <!-- END SECTION: Content Generation -->
 
@@ -142,7 +143,11 @@ Resources gathered by people from the GCC organization that might be useful for 
 * https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/
 * Behind the scenes of Avatar 2 water tech - https://lnkd.in/dFWeBrvb
 * Simulating fluids and smoke in real-time - https://news.ycombinator.com/item?id=38698907
-* https://unity-grenoble.github.io/website/demo/2020/10/16/demo-histogram-preserving-blend-synthesis.html 
+* https://unity-grenoble.github.io/website/demo/2020/10/16/demo-histogram-preserving-blend-synthesis.html
+* https://advances.realtimerendering.com/s2012/Ubisoft/Rock-Solid%20Shading.pdf
+
+#### Water
+* https://github.com/tessarakkt/godot4-oceanfft
 
 ### Graphics APIs and low-level Graphics Programming
 * https://gpuopen.com/archived/directx-12-tools/
@@ -202,6 +207,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 * https://utf8everywhere.org/
 * https://revealjs.com/
 * https://64.github.io/cmake-raytracer/
+* https://noelberry.ca/posts/making_games_in_2025/ without an engine
 
 ### Interesting Talks
 * Procedurally Crafting Manhattan for Marvel's Spider-Man - https://www.youtube.com/watch?v=4aw9uyj9MAE
