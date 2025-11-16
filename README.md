@@ -101,6 +101,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 
 ### Nice tricks
 * Bit operations - https://graphics.stanford.edu/~seander/bithacks.html
+* [Algorithmica](https://en.algorithmica.org/hpc/) : High Performance Computing Book
 
 #### Data Structures
 * Hash Tables - https://en.wikipedia.org/wiki/Hash_table
