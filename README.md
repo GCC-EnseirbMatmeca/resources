@@ -55,13 +55,13 @@ Resources gathered by people from the GCC organization that might be useful for 
 * GCC Git - https://youtu.be/cYSHlXObipQ
 * GCC Git - https://docs.google.com/presentation/d/1s0Abq0wl0TDzuMMFzVInQ-PKmydVDuGVKYAhws7zOnw/edit?usp=sharing
 * Git Client - https://git-fork.com/
-* Git GUI - https://www.gitkraken.com/
 
 ##### Tools
-* https://git-fork.com/
-* https://www.gitkraken.com/
-* https://desktop.github.com/
-* https://tortoisegit.org/
+* [Git fork](https://git-fork.com/) - Visual interface for git
+* [GitKraken](https://www.gitkraken.com/) - Visual interface for git
+* [Github desktop](https://desktop.github.com/) - Visual interface for git
+* [Tortoise git](https://tortoisegit.org/) - Git in a windows shell
+* [Git LFS](https://git-lfs.com/) - Git extension to store large files
 
 ##### Plugins
 
@@ -108,6 +108,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 * QuadTrees - https://www.youtube.com/watch?v=jxbDYxm-pXg
 * TaskFlow - https://github.com/taskflow/taskflow/blob/master/README.md
 * Nanite - https://80.lv/articles/an-ultimate-guide-to-unreal-engine-5-s-nanite/
+
 ##### Behavior Trees
 * https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)
 * https://hub.packtpub.com/building-your-own-basic-behavior-tree-tutorial/
@@ -118,6 +119,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 ### Graphics
 
 #### Rendering
+* [shadertoy](https://www.shadertoy.com) - Website with multiple GLSL shaders examples
 * https://colour-science.github.io/colour-science-precis/
 * http://www.pbr-book.org/
 * https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-Mo-ebook/dp/B07FSKB982
@@ -166,8 +168,32 @@ Resources gathered by people from the GCC organization that might be useful for 
 * https://twitter.com/C4Engine/status/1353129390859636736?s=09
 * https://gameprogrammingpatterns.com/contents.html 
 
-### Free Engines
-* https://github.com/GValiente/butano#butano
+<!-- END SECTION: Engine -->
+
+<!-- START SECTION: Tools -->
+## Game engines
+### Godot
+* [Godot engine](https://godotengine.org/) - Free and open source 2D and 3D game engine
+
+#### Plugins
+* [GUT](https://gut.readthedocs.io/en/v9.4.0/) - Godot Unit and integration test tool
+* [Shaker](https://github.com/Eneskp3441/Shaker) - Tool to shake things
+* [Dialogic](https://github.com/coppolaemilio/dialogic) - Tool to manage dialogs
+* [Godot-VSCode](https://github.com/godotengine/godot-vscode-plugin) - Godot plugin for VSCode
+
+#### Websites
+* [Awesome Godot](https://github.com/godotengine/awesome-godot) - Curated list of usefull Godot stuff
+* [Godot shaders](https://godotshaders.com/) - Shaders for Godot
+* [Godot tutorials](https://docs.godotengine.org/en/4.4/community/tutorials.html#where-to-start) - Amazing place to start to make games with Godot
+
+### Unity
+* [Unity](https://unity.com/) - Free (paid if your game does well) 2D and 3D game engine
+
+### Unreal
+* [Unreal](https://www.unrealengine.com) - Free (paid if your game does well) mostly 3D game engine
+
+### Others
+* [butano](https://github.com/GValiente/butano#butano) - Modern C++ high level engine for the Game Boy Advance.
 
 <!-- END SECTION: Engine -->
 
@@ -200,10 +226,69 @@ Resources gathered by people from the GCC organization that might be useful for 
 
 <!-- END SECTION: Tools -->
 
+<!-- START SECTION: Art -->
+## Art
+### Softwares
+* [Krita](https://krita.org/en/) - Free and open source drawing software
+* [Inkscape](https://inkscape.org/) - Free and open source drawing software, especially useful to generate svg files.
+* [Blender](https://www.blender.org/download/) - Free and open source 3D modelisation software
+* [MaterialMaker](https://www.materialmaker.org/) - Free tool made in Godot to generate textures
+* [BitMapFlow](https://bauxite.itch.io/bitmapflow) - Tool to generate in-between frames for 2D animations
+
+### Resources
+* [OpenGameArt](https://opengameart.org/) - Various free resources for game creation (3D + 2D)
+* [Itchio](https://itch.io/game-assets/free) - Free assets
+* [Quaternius](https://quaternius.com/) - Free 3D models + animations
+* [Kenney](https://kenney.nl/) - Free 2D + 3D + animations + UI elements + particles 
+* [The Sprite Ressource (2D)](https://www.spriters-resource.com/) - Paid 2D sprite ressources
+* [The Model Ressource (3D)](https://www.models-resource.com/) - Paid 3D Model resources
+<!-- END SECTION: Art -->
+
+<!-- START SECTION: Audio -->
+## Audio
+### DAW (Digital Audio Workstation)
+* [Ardour](https://ardour.org/) - Open source, free if you compile it yourself, a paid executable is available otherwise
+* [LMMS](https://lmms.io/) - Free, Open source
+* [Audacity](https://www.audacityteam.org/) - Free, Open source
+* [Reaper](https://www.reaper.fm/) - Paid (relatively cheap), closed source
+
+### VSTs (Virtual instruments and effects)
+* [Vital](https://vital.audio/) - Open source synth with a free version
+* [ZynAddSubFX](https://zynaddsubfx.sourceforge.io/) - Free and open source synth
+* [Surge](https://surge-synthesizer.github.io/) - Free and open source synth
+* [Calf](https://calf-studio-gear.org/) - LOTS of free and open source plugins and effects
+
+### Middlewares
+* [WWISE](https://www.audiokinetic.com/en/wwise/overview/) - Paid, closed source
+* [FMOD](https://www.fmod.com/) - Paid, closed source
+
+### Tools
+* [SonicPi](https://sonic-pi.net/) - To make live music with code
+
+### Resources
+* [Midi chords](https://github.com/ldrolez/free-midi-chords) - Catalog of midi chords and midi progressions
+* [More midi chords + beats](https://github.com/jmantra/LogicalArdour/tree/main/samples/Drum%20loops%2C%20chords%2C%20and%20chord%20progressions) - Catalog of midi chords, progressions, beats used in Ardour
+* [Arachno soundfont](https://www.arachnosoft.com/main/download.php?id=soundfont-sf2) - Free general purpose soundfont
+* [FreePats](https://freepats.zenvoid.org/) - Catalog of free soundfonts
+* [Freesound.org](https://freesound.org/) - A collection of various free sounds
+* [OpenGameArt](https://opengameart.org/) - Various free resources for game creation (Music + SFX)
+* [Incompetech](https://incompetech.com/music/royalty-free/music.html) - Royalty free music
+* [FreePD](https://freepd.com/) - Music
+* [Pixabay](https://pixabay.com/fr/) - Music + SFX
+    * [Floraphonic](https://pixabay.com/fr/users/floraphonic-38928062/)
+* [KHInsider](https://downloads.khinsider.com/) - Paid video game soundtracks & sfx
+* [VGMusic](https://www.vgmusic.com/) - Free video game MIDI files 
+* [The Sound Ressource (SFX)](https://www.sounds-resource.com/) - Paid video game sound recources
+* [Kenney](https://kenney.nl/) - Free sound effects
+<!-- END SECTION: Audio -->
+
 <!-- START SECTION: Miscellaneous -->
 
 ## Miscellaneous
-* Huge collection of links - https://github.com/sindresorhus/awesome
+* [Awesome github](https://github.com/sindresorhus/awesome) - Huge collection of awesome and usefull links and tools
+* [kdenlive](https://kdenlive.org/) - Free and open source video editor
+* [Notion](https://www.notion.so/fr-fr) - Powerful yet simple markdown note taking and organization app
+* [LogSeq](https://logseq.com/) - Powerful and private markdown note taking app
 * https://80.lv/articles/free-stylized-tree-generator-made-with-geometry-nodes-in-blender/
 * https://utf8everywhere.org/
 * https://revealjs.com/
@@ -211,42 +296,11 @@ Resources gathered by people from the GCC organization that might be useful for 
 * https://noelberry.ca/posts/making_games_in_2025/ without an engine
 
 ### Interesting Talks
-* Procedurally Crafting Manhattan for Marvel's Spider-Man - https://www.youtube.com/watch?v=4aw9uyj9MAE
-* Marvel's Spider-Man: A Technical Postmortem - https://www.youtube.com/watch?v=KDhKyIZd3O8
-* Anatomy of a Game - https://forum.paradoxplaza.com/forum/threads/anatomy-of-a-game-changing-the-gamestate.1483669/
-* Raytracing in Assassin's Creed Shadows - https://www.youtube.com/watch?v=2K-rwy4aMmU
+* [Procedurally Crafting Manhattan for Marvel's Spider-Man](https://www.youtube.com/watch?v=4aw9uyj9MAE)
+* [Marvel's Spider-Man: A Technical Postmortem](https://www.youtube.com/watch?v=KDhKyIZd3O8)
+* [Anatomy of a Game](https://forum.paradoxplaza.com/forum/threads/anatomy-of-a-game-changing-the-gamestate.1483669/)
+* [Raytracing in Assassin's Creed Shadows](https://www.youtube.com/watch?v=2K-rwy4aMmU)
+* [Things I've learned about game development while making ULTRAKILL](https://www.youtube.com/watch?v=LK6-_rY7GO)
+* [Sakurai on creating games](https://www.youtube.com/@sora_sakurai_en)
 
 <!-- END SECTION: Miscellaneous -->
-
-<!-- START SECTION: Audio -->
-
-## Audio
-
-### Tools
-* https://sonic-pi.net/
-
-<!-- END SECTION: Miscellaneous -->
-
-<!-- START SECTION: Assets -->
-
-## Assets
-
-### Free
-* Itchio : https://itch.io/game-assets/free
-* OpenGameArt : https://opengameart.org/
-* Quaternius (3D model + animations) : https://quaternius.com/
-* Kenney (2D + 3D + animations) : https://kenney.nl/
-* Incompetech (Music) : https://incompetech.com/music/royalty-free/music.html
-* FreePD (Music) : https://freepd.com/
-* Pixabay (Music + SFX) : https://pixabay.com/fr/
-* https://pixabay.com/fr/users/floraphonic-38928062/
-
-<!-- END SECTION: Assets -->
-
-### Paid
-* The Sprite Ressource (2D) : https://www.spriters-resource.com/
-* The Model Ressource (3D) : https://www.models-resource.com/
-* The Sound Ressource (SFX) : https://www.sounds-resource.com/
-* Video Game Music (Music + SFX) : https://downloads.khinsider.com/
-
-[comment]: end ASSETS section
