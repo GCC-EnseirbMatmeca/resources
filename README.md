@@ -93,32 +93,34 @@ Resources gathered by people from the GCC organization that might be useful for 
 
 <!-- END SECTION: Gameplay Programming -->
 
-<!-- START SECTION: Engine -->
+<!-- START SECTION: Nice tricks -->
 
-## Engine
-
-### Core
-
-### Nice tricks
+## Nice tricks
 * Bit operations - https://graphics.stanford.edu/~seander/bithacks.html
 * [Algorithmica](https://en.algorithmica.org/hpc/) : High Performance Computing Book
 
-#### Data Structures
+### Data Structures
 * Hash Tables - https://en.wikipedia.org/wiki/Hash_table
 * QuadTrees - https://www.youtube.com/watch?v=jxbDYxm-pXg
 * TaskFlow - https://github.com/taskflow/taskflow/blob/master/README.md
 * Nanite - https://80.lv/articles/an-ultimate-guide-to-unreal-engine-5-s-nanite/
 
-##### Behavior Trees
+#### Behavior Trees
 * https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)
 * https://hub.packtpub.com/building-your-own-basic-behavior-tree-tutorial/
 
-### Physics
+<!-- END SECTION: Nice tricks -->
+
+<!-- START SECTION: Physics -->
+## Physics
 * https://www.gdcvault.com/play/1012531/Physics-for
 
-### Graphics
+<!-- END SECTION: Physics -->
 
-#### Rendering
+<!-- START SECTION: Graphics -->
+## Graphics
+
+### Rendering
 * [shadertoy](https://www.shadertoy.com) - Website with multiple GLSL shaders examples
 * https://colour-science.github.io/colour-science-precis/
 * http://www.pbr-book.org/
@@ -149,10 +151,10 @@ Resources gathered by people from the GCC organization that might be useful for 
 * https://unity-grenoble.github.io/website/demo/2020/10/16/demo-histogram-preserving-blend-synthesis.html
 * https://advances.realtimerendering.com/s2012/Ubisoft/Rock-Solid%20Shading.pdf
 
-#### Water
+### Water
 * https://github.com/tessarakkt/godot4-oceanfft
 
-### Graphics APIs and low-level Graphics Programming
+### APIs and low-level Graphics Programming
 * https://gpuopen.com/archived/directx-12-tools/
 * https://www.khronos.org/blog/vulkan-ray-tracing-best-practices-for-hybrid-rendering
 * https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator
@@ -161,14 +163,16 @@ Resources gathered by people from the GCC organization that might be useful for 
 * https://learnopengl.com/In-Practice/Debugging
 * http://www.cs.ucy.ac.cy/courses/EPL426/courses/eBooks/ComputerGraphicsPrinciplesPractice.pdf
 * https://devblogs.nvidia.com/nvidia-ampere-architecture-in-depth/
+<!-- END SECTION: Graphics -->
 
-### Architecture
+<!-- START SECTION: Architecture -->
+## Architecture
 * https://khayyam.developpez.com/articles/cpp/jeux/architecture/
 * https://khayyam.developpez.com/articles/cpp/jeux/rts/
 * https://twitter.com/C4Engine/status/1353129390859636736?s=09
 * https://gameprogrammingpatterns.com/contents.html 
 
-<!-- END SECTION: Engine -->
+<!-- END SECTION: Architecture -->
 
 <!-- START SECTION: Tools -->
 ## Game engines
