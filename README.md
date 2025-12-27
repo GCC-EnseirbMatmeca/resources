@@ -224,6 +224,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 
 ### Tools
 * https://sonic-pi.net/
+* https://sfxr.me/
 
 <!-- END SECTION: Miscellaneous -->
 
