@@ -161,6 +161,13 @@ Resources gathered by people from the GCC organization that might be useful for 
 * [Computation of High Reynolds Number Flows Using Vorticity Confinement: I. Formulation](https://www.researchgate.net/publication/265066926_Computation_of_High_Reynolds_Number_Flows_Using_Vorticity_Confinement_I_Formulation)
 * [Numerical Computation of Internal and External Flows: The Fundamentals of Computational Fluid Dynamics](https://www.amazon.com/Numerical-Computation-Internal-External-Flows/dp/0750665947)
 
+##### Other effects
+* [Lightning](http://sglab.kaist.ac.kr/paper/physically_inspired_interactive_lightning_generation.pdf)
+* [Lightning meshes](https://www.drilian.com/posts/2009.02.25-lightning-bolts/)
+* [Real Time Volumetric rendering](https://patapom.com/topics/Revision2013/Revision%202013%20-%20Real-time%20Volumetric%20Rendering%20Course%20Notes.pdf)
+* [PostProcessing with depth texture](https://www.ronja-tutorials.com/post/017-postprocessing-depth/)
+* [Screen space ray tracing](https://casual-effects.blogspot.com/2014/08/screen-space-ray-tracing.html)
+
 #### AI
 * [Photorealism Enhacement](https://isl-org.github.io/PhotorealismEnhancement/)
 * [Photorealism Enhancement Video](https://www.youtube.com/watch?v=P1IcaBn3ej0)
@@ -191,6 +198,9 @@ Resources gathered by people from the GCC organization that might be useful for 
 
 ### Unity
 * [Unity](https://unity.com/) - Free (paid if your game does well) 2D and 3D game engine
+
+#### Resources
+* [Lightning](https://code.tutsplus.com/how-to-generate-shockingly-good-2d-lightning-effects-in-unity-c--cms-21275t)
 
 ### Unreal
 * [Unreal](https://www.unrealengine.com) - Free (paid if your game does well) mostly 3D game engine
