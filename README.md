@@ -20,20 +20,20 @@ Resources gathered by people from the GCC organization that might be useful for 
 * https://www.gdcvault.com/play/1026313/Math-for-Game-Developers-End
 
 #### Courses
-* https://www.youtube.com/watch?v=MOYiVLEnhrw - Maths for dummies
-* https://www.gdcvault.com/play/1012531/Physics-for - GDC 2010 Physics for Programmers
-* https://www.gdcvault.com/play/1015503/Math-for-Game - GDC 2012 Maths for Game Programmers
-* https://www.gdcvault.com/play/1017653/Math-for-Game-Programmers-Understanding - GDC 2013 Maths for Game Programmers: Understanding Quaternions
-* https://www.gdcvault.com/play/1026313/Math-for-Game-Developers-End - GDC 2019 Math for Game Developers: End-to-end procedural generation
-* Math Library
-* https://twitter.com/EricLengyel/status/1336084679934369792 -
-* https://www.youtube.com/watch?v=sW9npZVpiMI&feature=share&fbclid=IwAR1aofDIso3NHkEbi2B8zM_YMy-vGAur6wI3g9ST-fIxwoUUhpx0oQqgmhw
-* Interactive introduction to Fourier Transforms - http://www.jezzamon.com/fourier/index.html
-* Confused with Quaternions ? https://www.youtube.com/watch?v=zjMuIxRvygQ => https://www.youtube.com/watch?v=d4EgbgTm0Bg + https://www.youtube.com/watch?v=en2QcehKJd8
-* https://users.cs.utah.edu/~ladislav/kavan08geometric/kavan08geometric.pdf - DualQuaternion skinning
-* https://www.researchgate.net/publication/332410209_Beginner's_guide_to_mapping_simplexes_affinely
-* From Triangulation to simplex mesh and vice-versa https://liris.cnrs.fr/Documents/Liris-5344.pdf
-* Barycentric Quad Rasterization https://jcgt.org/published/0011/03/04/paper.pdf
+* [Maths for dummies - Vectors and dot products](https://www.youtube.com/watch?v=MOYiVLEnhrw)
+* [GDX 2010 Physics for programmers](https://www.gdcvault.com/play/1012531/Physics-for)
+* [GDC 2012 Maths for Game Programmers](https://www.gdcvault.com/play/1015503/Math-for-Game)
+* [GDC 2013 Maths for Game Programmers - Quaternions](https://www.gdcvault.com/play/1017653/Math-for-Game-Programmers-Understanding)
+* [GDC 2019 Maths for Game Programmers - Procedural Generation](https://www.gdcvault.com/play/1026313/Math-for-Game-Developers-End)
+* [GDX 2023 Maths for Game Programmers - Quaternions](https://www.youtube.com/watch?v=en2QcehKJd8) - Math in Game Development Summit: A Visual Guide to Quaternions and Dual Quaternions
+* [why you NEED math for programming](https://www.youtube.com/watch?v=sW9npZVpiMI)
+* [Interactive introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)
+* [Quaternions 3d rotations](https://www.youtube.com/watch?v=zjMuIxRvygQ) - Quaternions and 3d rotation, explained interactively
+* [Quaternions 4d vizualization](https://www.youtube.com/watch?v=d4EgbgTm0Bg) - Visualizing the 4d numbers Quaternions
+* [DualQuaternion skinning](https://users.cs.utah.edu/~ladislav/kavan08geometric/kavan08geometric.pdf)
+* [Beginner's guide to mapping simplexes affinely](https://www.researchgate.net/publication/332410209_Beginner's_guide_to_mapping_simplexes_affinely)
+* [From Triangulation to simplex mesh and vice-versa](https://liris.cnrs.fr/Documents/Liris-5344.pdf)
+* [Barycentric Quad Rasterization](https://jcgt.org/published/0011/03/04/paper.pdf)
 
 #### Tools
 * https://www.desmos.com/calculator/
@@ -89,7 +89,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 
 ### Core
 
-### Nice tricks
+#### Nice tricks
 * Bit operations - https://graphics.stanford.edu/~seander/bithacks.html
 * [Algorithmica](https://en.algorithmica.org/hpc/) : High Performance Computing Book
 
@@ -99,64 +99,77 @@ Resources gathered by people from the GCC organization that might be useful for 
 * TaskFlow - https://github.com/taskflow/taskflow/blob/master/README.md
 * Nanite - https://80.lv/articles/an-ultimate-guide-to-unreal-engine-5-s-nanite/
 
+#### Maths
+* [Terathon Math Library (Eric Lengyel)](https://github.com/EricLengyel/Terathon-Math-Library)
+
 ##### Behavior Trees
 * https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)
 * https://hub.packtpub.com/building-your-own-basic-behavior-tree-tutorial/
+
+### Architecture
+* [Game Architecture](https://khayyam.developpez.com/articles/cpp/jeux/architecture/)
+* [Game Architecture - RTS](https://khayyam.developpez.com/articles/cpp/jeux/rts/)
+* [C4 Engine Architecture](https://twitter.com/C4Engine/status/1353129390859636736?s=09)
+* [Game Engine fundamentals](https://gameprogrammingpatterns.com/contents.html)
 
 ### Physics
 * https://www.gdcvault.com/play/1012531/Physics-for
 
 ### Graphics
 
-#### Rendering
+#### Graphics APIs and low-level Graphics Programming
+* [DirectX12 tools](https://gpuopen.com/archived/directx-12-tools/)
+* [Vulkan Raytracing best practices](https://www.khronos.org/blog/vulkan-ray-tracing-best-practices-for-hybrid-rendering)
+* [Vulkan memory allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)
+* [Xorg 2022 Vulkan and rendering talks](https://www.youtube.com/watch?v=0XSJG5xGZfU)
+* [OpenGL learn](https://learnopengl.com/In-Practice)
+
+#### Shaders
 * [shadertoy](https://www.shadertoy.com) - Website with multiple GLSL shaders examples
-* https://colour-science.github.io/colour-science-precis/
+* [The Book of Shaders](https://thebookofshaders.com/?lan=fr)
+* [Hash Functions](https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/)
+* [Mesh and task shaders](https://timur.hu/blog/2022/mesh-and-task-shaders)
+
+#### Rendering
+* [Computer Graphics Principles and Practice](https://cgisutic.wordpress.com/wp-content/uploads/2016/07/computer_graphics_principles_and_practice.pdf)
+* [Colour Science Precis for the CGI Artist](https://colour-science.github.io/colour-science-precis/)
+* [Real-Time Rendering Book](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-Mo-ebook/dp/B07FSKB982)
+* [Intro to Raymarching](https://youtu.be/l_dGScTytzM)
+* [Sharper Mipmapping using Shader Based Supersampling](https://bgolus.medium.com/sharper-mipmapping-using-shader-based-supersampling-ed7aadb47bec) - a take on mipmaps
+* [GDC Talk Shading the world of Anthem](https://www.youtube.com/watch?v=IjQWRjWZGn0)
+* [Siggraph2020 Naughty Dog](https://www.naughtydog.com/blog/naughty_dog_at_siggraph_2020)
+* [Doom 2016 Frame study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
+* [Doom Eternal Frame study](https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html)
+* [Graphics Codex](https://graphicscodex.com/app/app.html?)
+* [Stable Geometric Specular Antialiasing with Projected-Space NDF Filtering](http://www.jcgt.org/published/0010/02/02/paper.pdf)
+* [Path Tracing Workshop](https://momentsingraphics.de/PathTracingWorkshop.html)
+* [Texture synthesis with histogram-preserving blending ](https://unity-grenoble.github.io/website/demo/2020/10/16/demo-histogram-preserving-blend-synthesis.html)
+
+##### Lighting / Physically Based Rendering
 * http://www.pbr-book.org/
-* https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-Mo-ebook/dp/B07FSKB982
-* https://docs.wixstatic.com/ugd/479e43_83bd4e5c15a74d63b24482bcf62bb856.pdf
-* https://www.claybookgame.com/
-* Interior Impostors - https://www.gamasutra.com/blogs/JoostVanDongen/20180925/327159/Interior_Mapping_rendering_real_rooms_without_geometry.php
-* Flow Maps - http://graphicsrunner.blogspot.com/2010/08/water-using-flow-maps.html
-* Intro to Raymarching - https://youtu.be/l_dGScTytzM
-* https://thebookofshaders.com/?lan=fr
-* God Rays in 3D Pixel Art Game Engine - https://www.youtube.com/watch?v=fSNdZ82I-eQ&feature=youtu.be
-* https://bgolus.medium.com/sharper-mipmapping-using-shader-based-supersampling-ed7aadb47bec
-* GDC Shading the world of Anthem - https://www.youtube.com/watch?v=IjQWRjWZGn0
-* Naughty Dog Siggraph 2020 - https://www.naughtydog.com/blog/naughty_dog_at_siggraph_2020
-* http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/
-* https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html
-* https://intel-isl.github.io/PhotorealismEnhancement/ + https://www.youtube.com/watch?v=P1IcaBn3ej0
-* https://graphicscodex.courses.nvidia.com/app.html
-* http://graphicscodex.com/chapters.xml
-* https://www.fxguide.com/fxfeatured/the-science-of-spherical-harmonics-at-weta-digital/
-* SSSAA - http://www.jcgt.org/published/0010/02/02/paper.pdf
-* https://80.lv/articles/a-beautiful-beach-simulation-made-in-blender/
-* https://80.lv/articles/fluidninja-live-1-8-has-been-released/
-* https://momentsingraphics.de/PathTracingWorkshop.html
-* https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/
-* Behind the scenes of Avatar 2 water tech - https://lnkd.in/dFWeBrvb
-* Simulating fluids and smoke in real-time - https://news.ycombinator.com/item?id=38698907
-* https://unity-grenoble.github.io/website/demo/2020/10/16/demo-histogram-preserving-blend-synthesis.html
-* https://advances.realtimerendering.com/s2012/Ubisoft/Rock-Solid%20Shading.pdf
+* [FR Image Synthesis Project](https://docs.wixstatic.com/ugd/479e43_83bd4e5c15a74d63b24482bcf62bb856.pdf)
+* [God Rays Showcase Pixel Art](https://www.youtube.com/watch?v=fSNdZ82I-eQ&feature=youtu.be) - God Rays in 3D Pixel Art Game Engine
+* [Siggraph 2012 - Rocksolid shading](https://advances.realtimerendering.com/s2012/Ubisoft/Rock-Solid%20Shading.pdf)
 
-#### Water
-* https://github.com/tessarakkt/godot4-oceanfft
+##### Water / Fluids
+* [Flow Maps](http://graphicsrunner.blogspot.com/2010/08/water-using-flow-maps.html)
+* [Ocean FFT in Godot](https://github.com/tessarakkt/godot4-oceanfft)
+* [Avatar 2 Water Tech](https://80.lv/articles/a-behind-the-scenes-look-at-avatar-2-s-water-technology)
+* [Realtime fluids simulation conversation](https://news.ycombinator.com/item?id=38698907)
+* [Vorticity Confinement](https://en.wikipedia.org/wiki/Vorticity_confinement)
+* [Modification of the Euler equations for vorticity confinement](https://www.researchgate.net/publication/239547604_Modification_of_the_Euler_equations_for_vorticity_confinement''_Application_to_the_computation_of_interacting_vortex_rings)
+* [Computation of High Reynolds Number Flows Using Vorticity Confinement: I. Formulation](https://www.researchgate.net/publication/265066926_Computation_of_High_Reynolds_Number_Flows_Using_Vorticity_Confinement_I_Formulation)
+* [Numerical Computation of Internal and External Flows: The Fundamentals of Computational Fluid Dynamics](https://www.amazon.com/Numerical-Computation-Internal-External-Flows/dp/0750665947)
 
-### Graphics APIs and low-level Graphics Programming
-* https://gpuopen.com/archived/directx-12-tools/
-* https://www.khronos.org/blog/vulkan-ray-tracing-best-practices-for-hybrid-rendering
-* https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator
-* https://www.youtube.com/watch?v=0XSJG5xGZfU
-* https://timur.hu/blog/2022/mesh-and-task-shaders
-* https://learnopengl.com/In-Practice/Debugging
-* http://www.cs.ucy.ac.cy/courses/EPL426/courses/eBooks/ComputerGraphicsPrinciplesPractice.pdf
-* https://devblogs.nvidia.com/nvidia-ampere-architecture-in-depth/
+#### AI
+* [Photorealism Enhacement](https://isl-org.github.io/PhotorealismEnhancement/)
+* [Photorealism Enhancement Video](https://www.youtube.com/watch?v=P1IcaBn3ej0)
 
-### Architecture
-* https://khayyam.developpez.com/articles/cpp/jeux/architecture/
-* https://khayyam.developpez.com/articles/cpp/jeux/rts/
-* https://twitter.com/C4Engine/status/1353129390859636736?s=09
-* https://gameprogrammingpatterns.com/contents.html 
+#### Concepts
+* [Spherical Harmonics](https://www.fxguide.com/fxfeatured/the-science-of-spherical-harmonics-at-weta-digital/)
+
+#### Hardware
+* [Nvidia Ampere Architecture](https://devblogs.nvidia.com/nvidia-ampere-architecture-in-depth/)
 <!-- END SECTION: Game Engine Science -->
 
 <!-- START SECTION: Free game engines -->
@@ -181,6 +194,9 @@ Resources gathered by people from the GCC organization that might be useful for 
 
 ### Unreal
 * [Unreal](https://www.unrealengine.com) - Free (paid if your game does well) mostly 3D game engine
+
+#### Plugins
+* [Fluid Ninja](https://www.fab.com/listings/90266972-0597-4404-a54a-8c0b7e00a005)
 
 ### Others
 * [butano](https://github.com/GValiente/butano#butano) - Modern C++ high level engine for the Game Boy Advance.
@@ -285,6 +301,8 @@ Resources gathered by people from the GCC organization that might be useful for 
 * https://revealjs.com/
 * https://64.github.io/cmake-raytracer/
 * https://noelberry.ca/posts/making_games_in_2025/ without an engine
+* [Claybookgame] https://www.claybookgame.com/
+* [Beach simulation made in Blender](https://80.lv/articles/a-beautiful-beach-simulation-made-in-blender/)
 
 ### Interesting Talks
 * [Procedurally Crafting Manhattan for Marvel's Spider-Man](https://www.youtube.com/watch?v=4aw9uyj9MAE)
