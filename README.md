@@ -6,11 +6,9 @@ Resources gathered by people from the GCC organization that might be useful for 
 * https://www.youtube.com/user/GameCreationClub/
 * https://youtube.com/@gamecreationclubgcc5098
 * https://github.com/Skydrag42/GCC_Unity_Forma_Class1/
-
 <!-- END SECTION: GCC Courses -->
 
 <!-- START SECTION: Generic Knowledge -->
-
 ## Generic Knowledge
 
 ### Mathematics
@@ -64,38 +62,30 @@ Resources gathered by people from the GCC organization that might be useful for 
 * [Git LFS](https://git-lfs.com/) - Git extension to store large files
 
 ##### Plugins
-
 * https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens 
-
 <!-- END SECTION: Generic Knowledge -->
 
 <!-- START SECTION: Content Generation -->
-
 ## Content Generation
 
 ### Procedural
-
 * https://catlikecoding.com/unity/tutorials/noise/
 * https://cochoy-jeremy.developpez.com/tutoriels/2d/introduction-bruit-perlin/
 * Different noises - https://hal.inria.fr/hal-00920177/document
 * https://www.researchgate.net/publication/216813608_Simplex_noise_demystified
 * Terrain Generation using FFTs - https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2022/jjw254_lmm343_ag988/ece5760-gh-pages/index.html
-
 <!-- END SECTION: Content Generation -->
 
 <!-- START SECTION: Gameplay Programming -->
-
 ## Gameplay Programming
 
 ### AI
 * https://www.totalwar.com/blog/total-war-ai/
 * https://www.gameaipro.com/
-
 <!-- END SECTION: Gameplay Programming -->
 
-<!-- START SECTION: Engine -->
-
-## Engine
+<!-- START SECTION: Game Engine Science -->
+## Game engine science
 
 ### Core
 
@@ -167,11 +157,11 @@ Resources gathered by people from the GCC organization that might be useful for 
 * https://khayyam.developpez.com/articles/cpp/jeux/rts/
 * https://twitter.com/C4Engine/status/1353129390859636736?s=09
 * https://gameprogrammingpatterns.com/contents.html 
+<!-- END SECTION: Game Engine Science -->
 
-<!-- END SECTION: Engine -->
+<!-- START SECTION: Free game engines -->
+## Free game engines
 
-<!-- START SECTION: Tools -->
-## Game engines
 ### Godot
 * [Godot engine](https://godotengine.org/) - Free and open source 2D and 3D game engine
 
@@ -181,7 +171,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 * [Dialogic](https://github.com/coppolaemilio/dialogic) - Tool to manage dialogs
 * [Godot-VSCode](https://github.com/godotengine/godot-vscode-plugin) - Godot plugin for VSCode
 
-#### Websites
+#### Resources
 * [Awesome Godot](https://github.com/godotengine/awesome-godot) - Curated list of usefull Godot stuff
 * [Godot shaders](https://godotshaders.com/) - Shaders for Godot
 * [Godot tutorials](https://docs.godotengine.org/en/4.4/community/tutorials.html#where-to-start) - Amazing place to start to make games with Godot
@@ -194,11 +184,9 @@ Resources gathered by people from the GCC organization that might be useful for 
 
 ### Others
 * [butano](https://github.com/GValiente/butano#butano) - Modern C++ high level engine for the Game Boy Advance.
-
-<!-- END SECTION: Engine -->
+<!-- END SECTION: Free game engines -->
 
 <!-- START SECTION: Tools -->
-
 ## Tools
 
 ### CPU, GPU & GPU APIs Profiling + Debug Tools
@@ -217,17 +205,20 @@ Resources gathered by people from the GCC organization that might be useful for 
 * https://godbolt.org/ : Cpp to asm online compiler to comparate code generation and performance
 * http://cpp.sh/ : Cpp online compiler
 * https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap : Process memory usage viewer
+
 ### Visual Studio plugins
 * https://www.wholetomato.com/
+
 ### CPU Monitoring
 * https://htop.dev/ 
+
 ### Architecture Design
 * https://github.com/jgraph/drawio-desktop/releases/tag/v12.1.0
-
 <!-- END SECTION: Tools -->
 
 <!-- START SECTION: Art -->
 ## Art
+
 ### Softwares
 * [Krita](https://krita.org/en/) - Free and open source drawing software
 * [Inkscape](https://inkscape.org/) - Free and open source drawing software, especially useful to generate svg files.
@@ -246,6 +237,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 
 <!-- START SECTION: Audio -->
 ## Audio
+
 ### DAW (Digital Audio Workstation)
 * [Ardour](https://ardour.org/) - Open source, free if you compile it yourself, a paid executable is available otherwise
 * [LMMS](https://lmms.io/) - Free, Open source
@@ -283,7 +275,6 @@ Resources gathered by people from the GCC organization that might be useful for 
 <!-- END SECTION: Audio -->
 
 <!-- START SECTION: Miscellaneous -->
-
 ## Miscellaneous
 * [Awesome github](https://github.com/sindresorhus/awesome) - Huge collection of awesome and usefull links and tools
 * [kdenlive](https://kdenlive.org/) - Free and open source video editor
@@ -302,5 +293,4 @@ Resources gathered by people from the GCC organization that might be useful for 
 * [Raytracing in Assassin's Creed Shadows](https://www.youtube.com/watch?v=2K-rwy4aMmU)
 * [Things I've learned about game development while making ULTRAKILL](https://www.youtube.com/watch?v=LK6-_rY7GO)
 * [Sakurai on creating games](https://www.youtube.com/@sora_sakurai_en)
-
 <!-- END SECTION: Miscellaneous -->
