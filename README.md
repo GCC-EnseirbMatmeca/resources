@@ -282,6 +282,7 @@ Resources gathered by people from the GCC organization that might be useful for 
 
 ### Tools
 * [SonicPi](https://sonic-pi.net/) - To make live music with code
+* [SFXr](https://sfxr.me/)
 
 ### Resources
 * [Midi chords](https://github.com/ldrolez/free-midi-chords) - Catalog of midi chords and midi progressions
